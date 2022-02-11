@@ -1,0 +1,6 @@
+DEBUG:root:This message should be recorded to the log file
+WARNING:root:Also this
+INFO:root:And, this.
+DEBUG:root:This message should be recorded to the log file
+WARNING:root:Also this
+INFO:root:And, this.
