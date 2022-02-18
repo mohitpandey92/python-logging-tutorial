@@ -1,6 +1,14 @@
-DEBUG:root:This message should be recorded to the log file
 WARNING:root:Also this
-INFO:root:And, this.
-DEBUG:root:This message should be recorded to the log file
-WARNING:root:Also this
-INFO:root:And, this.
+ERROR:root:And this.
+CRITICAL:root:Woahhh
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-6-7980dd2c71e5>", line 3, in <module>
+    x=2/0
+ZeroDivisionError: division by zero
+18-Feb-22 08:15:19 -WARNING -Admin logging in
+18-Feb-22 08:15:50 -ERROR -Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-7980dd2c71e5>", line 3, in <module>
+    x=2/0
+ZeroDivisionError: division by zero
