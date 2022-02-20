@@ -92,7 +92,7 @@
    "metadata": {},
    "source": [
     "Note how the error log contains three things: \n",
-    "1. <b> What's the level of error? </b> Python has five levels of events that `logging` can track (in increasing severity): DEBUG, INFO, WARNING, ERROR, CRITICAL. By default, Python tracks WARNING and higher sever levels. This is why `logging.debug` and `logging.info` messages were written to file.\n",
+    "1. <b> What's the level of error? </b> Python has five levels of events that `logging` can track (in increasing severity): DEBUG, INFO, WARNING, ERROR, CRITICAL. By default, Python tracks WARNING and higher levels. This is why `logging.debug` and `logging.info` messages were written to file.\n",
     "2. <b> Who wrote the error message? </b> This can be customized to track error messages coming from different modules or users\n",
     "3. <b> What is the message? </b> Apart from storing explicit message, you can also save `Traceback` error using `exc_info=True` argument (see below).\n",
     "\n",
@@ -154,7 +154,7 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "changed-aviation",
+   "id": "brave-preliminary",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -166,7 +166,7 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "flush-magazine",
+   "id": "quiet-geometry",
    "metadata": {},
    "outputs": [
     {
@@ -192,7 +192,7 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "virgin-poker",
+   "id": "scientific-coordinator",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -207,7 +207,7 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "french-serum",
+   "id": "awful-confidentiality",
    "metadata": {},
    "outputs": [
     {
@@ -237,7 +237,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "noticed-metallic",
+   "id": "impressive-secretariat",
    "metadata": {},
    "source": [
     "This concludes an introduction to logging error. Here are the few references that can help you learn more:\n",
@@ -250,7 +250,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "continuous-worcester",
+   "id": "foreign-helen",
    "metadata": {},
    "outputs": [],
    "source": []
